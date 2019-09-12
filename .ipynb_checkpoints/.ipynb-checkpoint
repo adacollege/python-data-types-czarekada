@@ -15,17 +15,9 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 1,
+   "execution_count": null,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Hi Bob\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "# run the following lines of code:\n",
     "name='Bob'\n",
@@ -49,20 +41,9 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 2,
+   "execution_count": null,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "7\n",
-      "2\n",
-      "30\n",
-      "3.5\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "# Copy and run the following lines of code\n",
     "print(1+6)\n",
@@ -83,17 +64,9 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 3,
+   "execution_count": null,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "4.0\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "a=60\n",
     "b=15\n",
@@ -199,23 +172,9 @@
   },
   {
    "cell_type": "code",
-   "execution_count": 4,
+   "execution_count": null,
    "metadata": {},
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "12.0\n",
-      "1021\n",
-      "50196\n",
-      "32\n",
-      "38\n",
-      "5\n",
-      "1\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
     "# write the code here\n",
     "print(60/5)\n",
@@ -241,7 +200,7 @@
    "metadata": {},
    "outputs": [],
    "source": [
-    "##### length = float(input(\"Enter the length of carpet in metres: \"))\n",
+    "length = float(input(\"Enter the length of carpet in metres: \"))\n",
     "# ask the user to provide width\n",
     "# add your code here\n",
     "width = float(input(\"Enter the width of carpet in metres: \"))\n",
@@ -333,18 +292,12 @@
   },
   {
    "cell_type": "code",
-   "execution_count": null,
+   "execution_count": 3,
    "metadata": {},
    "outputs": [],
    "source": [
     "# add your code here\n",
-    "int1 = 6\n",
-    "int2 = 10\n",
-    "int3 = 14\n",
-    "\n",
-    "hm = float(input(\"Which of the following numbers is the largest: 6. 10, 14: \"))\n",
-    "\n",
-    "if= ()\n"
+    "\n"
    ]
   },
   {
